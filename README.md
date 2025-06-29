@@ -39,3 +39,11 @@ Before running the Process Monitor, make sure you have Python and the required l
 You can run the Process Monitor by executing the following command in your terminal or command prompt:
 
 `python process_monitor.py`
+
+---
+
+**Maintainer Update**
+
+All legacy projects from the old `@Elektronoide` GitHub account are now officially maintained by **@bocaletto-luca**. Please direct any issues, pull requests, and stars to **@bocaletto-luca** for all future updates.
+
+---
